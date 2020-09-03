@@ -2,13 +2,21 @@ body {
     background-color: #cecece;
 }
 
-header{
+.centro {
     background-color: #fff;
     margin: 20px auto;
     max-width: 1300px;
     width: 100%;
-    border-radius: 5px;
+    /* border-radius: 5px; */
+
+
 }
+
 header .conteiner {
     padding: 20px;
+}
+
+.card  {
+    width: 80%;
+    margin: auto;
 }
